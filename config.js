@@ -2,7 +2,7 @@
 // JANGAN DI HAPUS📣
 
 //BUY NO ENC? CHAT wa.me/6288215689772
-//GITHUB: https://github.com/Fangzbotz2007
+//GITHUB: https://github.com/Firxyz
 
 //KALAU GA ADA KASIH TANDA "-"
 
@@ -39,10 +39,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/f1rxyz' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
-global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
+global.sgh = 'https://github.com/Firxyz' //Github mu
+global.sgc = 'NgakAda' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/Firxyz' //Discord Mu
+global.snh = '' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
 global.pdana = '6285806459088' //Dana
@@ -55,7 +55,7 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6285806459088' //Nomor Bot mu
 global.nomorown = '6285806459088' //Nomormu
-global.namebot = 'S4ber BOT' //Nama bot mu
+global.namebot = 'RixyzBotz' //Nama bot mu
 global.nameown = 'FirXyz' //Nama mu
 
 
@@ -162,7 +162,7 @@ global.cmenut = '✦╍╌╌╍╌╌╍ ◸'                       //top
 global.cmenuh = '◿ ╍╌╌╍╌╌╍'                        //header
 global.cmenub = '│⌕ '                            //body
 global.cmenuf = '╰───···─────\n'                //footer
-global.cmenua = '\nજ By Fangz\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
+global.cmenua = '\nજ By Firxyz\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
 global.pmenus = '│'                              //pembatas menu selector
 
 global.htki = '––––––◸' // Hiasan Titile (KIRI)
@@ -173,8 +173,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FANGZ BOT'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = 'Rixyz'
+global.stickauth = `© Firxyz\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
